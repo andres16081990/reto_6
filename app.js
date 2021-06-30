@@ -23,7 +23,7 @@ app.get('/',(req,res)=>{
             <label for="get_name"></label>
             <input type="text" name="name" id="name">
             <label for="send"></label>
-            <button>Enviar</button>
+            <button type="submit">Enviar</button>
         </form>
         
     </body>
